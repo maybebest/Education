@@ -1,0 +1,20 @@
+# Homework 3 ##
+
+file1string
+
+I am a duplicate
+I am just nothing but another duplicate
+
+file1string
+file1string
+file1string
+file1string
+file1string
+
+
+
+file1string
+file1string
+file1string
+
+file1string

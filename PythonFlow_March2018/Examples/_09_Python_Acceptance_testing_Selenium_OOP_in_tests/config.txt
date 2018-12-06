@@ -1,0 +1,6 @@
+{
+    "app_path": "http://charity-pets.dev-pro.net/",
+    "chrome_driver_path": "C:\Users\Work\DevPro\Python\chromedriver",
+    "firefox_driver_path": "C:\Users\Work\DevPro\Python\geckodriver",
+    "ie_driver_path": "C:\Users\Work\DevPro\Python\IEDriverServer"
+}

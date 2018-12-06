@@ -1,0 +1,18 @@
+{
+    "header": {
+        "container": "app-header .container",
+        "login_menu": {
+            "user_area": "app-header .container .header-user-area",
+            "login_area": "app-header .container .header-login-area",
+            "user_menu": ".header-user-area user-menu",
+            "user_menu_popup": ".header-user-area .mdl-menu__container",
+            "user_menu_popup_account": ".header-user-area .mdl-menu__container.is-visible mdl-menu-item:nth-of-type(1) > span",
+            "user_menu_popup_log_out": ".header-user-area .mdl-menu__container.is-visible mdl-menu-item:nth-of-type(2) > span"            
+        }        
+    },
+    "login_page": {
+        "login_form": "login-form form",
+        "email_input": "login-form form input[type='email']",
+        "password_input": "login-form form input[type='password']"
+    }   
+}
